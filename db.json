@@ -1,0 +1,326 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin",
+      "roles": [
+        "admin"
+      ],
+      "position": "admin",
+      "tgLink": "fdsfd",
+      "skills": [
+        "Android",
+        "ML"
+      ],
+      "lastName": "Администратор",
+      "firstName": "fds",
+      "middleName": "fdsfd",
+      "city": "fds",
+      "gender": "fds",
+      "phone": "fds",
+      "university": "5"
+    },
+    {
+      "id": 2,
+      "firstName": "Имя",
+      "lastName": "Фамилия",
+      "middleName": "Отчество",
+      "tgLink": "",
+      "email": "",
+      "roles": [
+        "user"
+      ],
+      "skills": [
+        "Android",
+        "ML"
+      ],
+      "birthday": "0012-12-12T00:00:00.000Z",
+      "university": "fds",
+      "password": "user",
+      "username": "user"
+    },
+    {
+      "id": 3,
+      "firstName": "user",
+      "lastName": "user",
+      "middleName": "user",
+      "tgLink": "",
+      "email": "",
+      "roles": [
+        "worker"
+      ],
+      "skills": [
+        "Android",
+        "ML"
+      ],
+      "university": "fds",
+      "password": "user",
+      "username": "test"
+    }
+  ],
+  "teams": [
+    {
+      "members": [
+        {
+          "id": 1,
+          "username": "admin",
+          "password": "admin",
+          "roles": [
+            "admin"
+          ],
+          "position": "admin",
+          "tgLink": "fdsfd",
+          "skills": [
+            "Android",
+            "ML"
+          ],
+          "lastName": "Администратор",
+          "firstName": "fds",
+          "middleName": "fdsfd",
+          "city": "fds",
+          "gender": "fds",
+          "phone": "fds",
+          "university": "5"
+        },
+        {
+          "id": 1,
+          "username": "admin",
+          "password": "admin",
+          "roles": [
+            "admin"
+          ],
+          "position": "admin",
+          "tgLink": "fdsfd",
+          "skills": [
+            "Android",
+            "ML"
+          ],
+          "lastName": "Администратор",
+          "firstName": "fds",
+          "middleName": "fdsfd",
+          "city": "fds",
+          "gender": "fds",
+          "phone": "fds",
+          "university": "5"
+        },
+        {
+          "id": 2,
+          "firstName": "Имя",
+          "lastName": "Фамилия",
+          "middleName": "Отчество",
+          "tgLink": "",
+          "email": "",
+          "roles": [
+            "user"
+          ],
+          "skills": [
+            "Android",
+            "ML"
+          ],
+          "birthday": "0012-12-12T00:00:00.000Z",
+          "university": "fds",
+          "password": "user",
+          "username": "user"
+        }
+      ],
+      "name": "Team",
+      "id": 1
+    },
+    {
+      "members": [
+        {
+          "id": 1,
+          "username": "admin",
+          "password": "admin",
+          "roles": [
+            "admin"
+          ],
+          "position": "admin",
+          "tgLink": "fdsfd",
+          "skills": [
+            "Android",
+            "ML"
+          ],
+          "lastName": "Администратор",
+          "firstName": "fds",
+          "middleName": "fdsfd",
+          "city": "fds",
+          "gender": "fds",
+          "phone": "fds",
+          "university": "5"
+        },
+        {
+          "id": 1,
+          "username": "admin",
+          "password": "admin",
+          "roles": [
+            "admin"
+          ],
+          "position": "admin",
+          "tgLink": "fdsfd",
+          "skills": [
+            "Android",
+            "ML"
+          ],
+          "lastName": "Администратор",
+          "firstName": "fds",
+          "middleName": "fdsfd",
+          "city": "fds",
+          "gender": "fds",
+          "phone": "fds",
+          "university": "5"
+        },
+        {
+          "id": 2,
+          "firstName": "Имя",
+          "lastName": "Фамилия",
+          "middleName": "Отчество",
+          "tgLink": "",
+          "email": "",
+          "roles": [
+            "user"
+          ],
+          "skills": [],
+          "birthday": "0012-12-12T00:00:00.000Z",
+          "university": "fds",
+          "password": "1111",
+          "username": "user"
+        }
+      ],
+      "name": "Team 2",
+      "id": 2
+    }
+  ],
+  "projects": [
+    {
+      "desc": "Описание",
+      "tags": [
+        "IT",
+        "LegalTech",
+        "New Media and Entertainment"
+      ],
+      "name": "Название проектов",
+      "problem": "Кейсы",
+      "linkPrototype": "https://github.com",
+      "linkPresentation": "https://github.com",
+      "analytics": "Анализ данн",
+      "cost": "5654",
+      "deadline": "1212-12-12",
+      "site": "https://github.com",
+      "type": "base",
+      "phase": "авы",
+      "setrify": "yesNotHas",
+      "tech": [
+        {
+          "id": "Стэк",
+          "text": "Стэк"
+        }
+      ],
+      "id": 1,
+      "team": {
+        "members": [
+          {
+            "id": 1,
+            "username": "admin",
+            "password": "admin",
+            "roles": [
+              "admin"
+            ],
+            "position": "admin",
+            "tgLink": "fdsfd",
+            "skills": [
+              "Android",
+              "ML"
+            ],
+            "lastName": "Администратор",
+            "firstName": "fds",
+            "middleName": "fdsfd",
+            "city": "fds",
+            "gender": "fds",
+            "phone": "fds",
+            "university": "5"
+          },
+          {
+            "id": 1,
+            "username": "admin",
+            "password": "admin",
+            "roles": [
+              "admin"
+            ],
+            "position": "admin",
+            "tgLink": "fdsfd",
+            "skills": [
+              "Android",
+              "ML"
+            ],
+            "lastName": "Администратор",
+            "firstName": "fds",
+            "middleName": "fdsfd",
+            "city": "fds",
+            "gender": "fds",
+            "phone": "fds",
+            "university": "5"
+          },
+          {
+            "id": 2,
+            "firstName": "Имя",
+            "lastName": "Фамилия",
+            "middleName": "Отчество",
+            "tgLink": "",
+            "email": "",
+            "roles": [
+              "user"
+            ],
+            "skills": [],
+            "birthday": "0012-12-12T00:00:00.000Z",
+            "university": "fds",
+            "password": "1111",
+            "username": "user"
+          }
+        ],
+        "name": "Team 2",
+        "id": 2
+      },
+      "contact": {
+        "id": 1,
+        "username": "admin",
+        "password": "admin",
+        "roles": [
+          "admin"
+        ],
+        "position": "admin",
+        "tgLink": "fdsfd",
+        "skills": [
+          "Android",
+          "ML"
+        ],
+        "lastName": "Администратор",
+        "firstName": "fds",
+        "middleName": "fdsfd",
+        "city": "fds",
+        "gender": "fds",
+        "phone": "fds",
+        "university": "5"
+      }
+    }
+  ],
+  "tasks": [
+    {
+      "desc": "ter",
+      "name": "",
+      "tags": [
+        "FoodTech",
+        "HealthTech",
+        "IndustrialTech"
+      ],
+      "problem": "errtre",
+      "interaction": "tre",
+      "budget": "6456",
+      "deadline": "0065-06-05",
+      "author": "1",
+      "id": 1
+    }
+  ],
+  "reports": []
+}
