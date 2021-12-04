@@ -2,61 +2,105 @@
   "users": [
     {
       "id": 1,
-      "username": "admin",
+      "username": "admin@admin.ru",
       "password": "admin",
       "roles": [
         "admin"
       ],
-      "position": "admin",
-      "tgLink": "fdsfd",
+      "position": "Админ",
+      "tgLink": "@admin",
       "skills": [
         "Android",
         "ML"
       ],
-      "lastName": "Администратор",
-      "firstName": "fds",
-      "middleName": "fdsfd",
-      "city": "fds",
-      "gender": "fds",
-      "phone": "fds",
-      "university": "5"
+      "lastName": "Админов",
+      "firstName": "Админ",
+      "middleName": "Админович",
+      "city": "Москва",
+      "gender": "Мужской",
+      "phone": "+77777777777",
+      "university": "Рту Мирэа",
+      "birthday": "1970-01-01T00:00:00.000Z"
     },
     {
       "id": 2,
-      "firstName": "Имя",
-      "lastName": "Фамилия",
-      "middleName": "Отчество",
-      "tgLink": "",
+      "firstName": "Будимир ",
+      "lastName": "Загитов ",
+      "middleName": "Альбертович",
+      "tgLink": "@BudimirZagitov841",
       "email": "",
       "roles": [
         "user"
       ],
-      "skills": [
-        "Android",
-        "ML"
-      ],
-      "birthday": "0012-12-12T00:00:00.000Z",
-      "university": "fds",
-      "password": "user",
-      "username": "user"
+      "skills": [],
+      "birthday": "1987-12-30T00:00:00.000Z",
+      "phone": "+79176058584",
+      "gender": "Мужской",
+      "username": "BudimirZagitov841@mail.ru",
+      "city": "Мончегорск",
+      "position": "Аналитик",
+      "university": "МАИ",
+      "password": "1111"
     },
     {
       "id": 3,
-      "firstName": "user",
-      "lastName": "user",
-      "middleName": "user",
-      "tgLink": "",
+      "firstName": "Климент ",
+      "lastName": "Галактионов ",
+      "middleName": "Ярославович",
+      "tgLink": "@KlimentGalaktionov222",
+      "email": "",
+      "roles": [
+        "user"
+      ],
+      "skills": [],
+      "birthday": "1986-02-21T00:00:00.000Z",
+      "username": "KlimentGalaktionov222@mail.ru",
+      "password": "1111",
+      "university": "МФТИ",
+      "city": "Тереньга",
+      "gender": "Мужской",
+      "phone": "+79198252939",
+      "position": "Дизайнер UI/UX"
+    },
+    {
+      "id": 4,
+      "firstName": "Конкордия",
+      "lastName": "Травникова",
+      "middleName": "Львовна",
+      "tgLink": "@KonkordiyaTravnikova242",
       "email": "",
       "roles": [
         "worker"
       ],
-      "skills": [
-        "Android",
-        "ML"
+      "skills": [],
+      "birthday": "1999-11-01T00:00:00.000Z",
+      "username": "KonkordiyaTravnikova242@mail.ru",
+      "password": "1111",
+      "gender": "Женский",
+      "city": "Кимры",
+      "phone": "+79957016712",
+      "position": "Сотрудник ТИМ",
+      "university": "МГТУ им. Баумана"
+    },
+    {
+      "id": 5,
+      "firstName": "Емельян ",
+      "lastName": "Чернышов ",
+      "middleName": "Георгиевич",
+      "tgLink": "@EmelyanChernyshov225",
+      "email": "",
+      "roles": [
+        "user"
       ],
-      "university": "fds",
-      "password": "user",
-      "username": "test"
+      "skills": [],
+      "birthday": "1998-10-12T00:00:00.000Z",
+      "username": "EmelyanChernyshov225@mail.ru",
+      "phone": "+79725198186",
+      "gender": "Мужской",
+      "city": "Россошь",
+      "position": "Fullstack разработчик",
+      "university": "МГУ",
+      "password": "1111"
     }
   ],
   "teams": [
@@ -130,62 +174,64 @@
     {
       "members": [
         {
-          "id": 1,
-          "username": "admin",
-          "password": "admin",
-          "roles": [
-            "admin"
-          ],
-          "position": "admin",
-          "tgLink": "fdsfd",
-          "skills": [
-            "Android",
-            "ML"
-          ],
-          "lastName": "Администратор",
-          "firstName": "fds",
-          "middleName": "fdsfd",
-          "city": "fds",
-          "gender": "fds",
-          "phone": "fds",
-          "university": "5"
-        },
-        {
-          "id": 1,
-          "username": "admin",
-          "password": "admin",
-          "roles": [
-            "admin"
-          ],
-          "position": "admin",
-          "tgLink": "fdsfd",
-          "skills": [
-            "Android",
-            "ML"
-          ],
-          "lastName": "Администратор",
-          "firstName": "fds",
-          "middleName": "fdsfd",
-          "city": "fds",
-          "gender": "fds",
-          "phone": "fds",
-          "university": "5"
-        },
-        {
           "id": 2,
-          "firstName": "Имя",
-          "lastName": "Фамилия",
-          "middleName": "Отчество",
-          "tgLink": "",
+          "firstName": "Будимир ",
+          "lastName": "Загитов ",
+          "middleName": "Альбертович",
+          "tgLink": "@BudimirZagitov841",
           "email": "",
           "roles": [
             "user"
           ],
           "skills": [],
-          "birthday": "0012-12-12T00:00:00.000Z",
-          "university": "fds",
+          "birthday": "1987-12-30T00:00:00.000Z",
+          "phone": "+79176058584",
+          "gender": "Мужской",
+          "username": "BudimirZagitov841@mail.ru",
+          "city": "Мончегорск",
+          "position": "Аналитик",
+          "university": "МАИ",
+          "password": "1111"
+        },
+        {
+          "id": 5,
+          "firstName": "Емельян ",
+          "lastName": "Чернышов ",
+          "middleName": "Георгиевич",
+          "tgLink": "@EmelyanChernyshov225",
+          "email": "",
+          "roles": [
+            "user"
+          ],
+          "skills": [],
+          "birthday": "1998-10-12T00:00:00.000Z",
+          "username": "EmelyanChernyshov225@mail.ru",
+          "phone": "+79725198186",
+          "gender": "Мужской",
+          "city": "Россошь",
+          "position": "Fullstack разработчик",
+          "university": "МГУ",
+          "password": "1111"
+        },
+        {
+          "id": 3,
+          "firstName": "Климент ",
+          "lastName": "Галактионов ",
+          "middleName": "Ярославович",
+          "tgLink": "@KlimentGalaktionov222",
+          "email": "",
+          "roles": [
+            "user"
+          ],
+          "skills": [],
+          "birthday": "1986-02-21T00:00:00.000Z",
+          "username": "KlimentGalaktionov222@mail.ru",
           "password": "1111",
-          "username": "user"
+          "university": "МФТИ",
+          "city": "Тереньга",
+          "gender": "Мужской",
+          "phone": "+79198252939",
+          "position": "Дизайнер UI/UX"
         }
       ],
       "name": "Team 2",
@@ -194,115 +240,90 @@
   ],
   "projects": [
     {
-      "desc": "Описание",
+      "desc": "Сайт/приложение, строит маршрут от одной туристической точки к другой.",
       "tags": [
         "IT",
-        "LegalTech",
-        "New Media and Entertainment"
+        "Sports",
+        "TravelTech"
       ],
-      "name": "Название проектов",
-      "problem": "Кейсы",
-      "linkPrototype": "https://github.com",
-      "linkPresentation": "https://github.com",
-      "analytics": "Анализ данн",
-      "cost": "5654",
-      "deadline": "1212-12-12",
-      "site": "https://github.com",
-      "type": "base",
-      "phase": "авы",
-      "setrify": "yesNotHas",
-      "tech": [
-        {
-          "id": "Стэк",
-          "text": "Стэк"
-        }
-      ],
-      "id": 1,
+      "name": "Туристические маршруты в г. Москва",
+      "problem": "Улучшает выручку туристических мест.",
+      "linkPrototype": "http://mockaddress/",
+      "linkPresentation": "http://mockaddress/",
+      "deadline": "2022-05-04",
+      "analytics": "Была выявлена низкая доходность культурно значимых мест.",
+      "site": "http://mockaddress/",
+      "cost": "3399999",
+      "type": "pilot",
       "team": {
         "members": [
           {
-            "id": 1,
-            "username": "admin",
-            "password": "admin",
-            "roles": [
-              "admin"
-            ],
-            "position": "admin",
-            "tgLink": "fdsfd",
-            "skills": [
-              "Android",
-              "ML"
-            ],
-            "lastName": "Администратор",
-            "firstName": "fds",
-            "middleName": "fdsfd",
-            "city": "fds",
-            "gender": "fds",
-            "phone": "fds",
-            "university": "5"
-          },
-          {
-            "id": 1,
-            "username": "admin",
-            "password": "admin",
-            "roles": [
-              "admin"
-            ],
-            "position": "admin",
-            "tgLink": "fdsfd",
-            "skills": [
-              "Android",
-              "ML"
-            ],
-            "lastName": "Администратор",
-            "firstName": "fds",
-            "middleName": "fdsfd",
-            "city": "fds",
-            "gender": "fds",
-            "phone": "fds",
-            "university": "5"
-          },
-          {
             "id": 2,
-            "firstName": "Имя",
-            "lastName": "Фамилия",
-            "middleName": "Отчество",
-            "tgLink": "",
+            "firstName": "Будимир ",
+            "lastName": "Загитов ",
+            "middleName": "Альбертович",
+            "tgLink": "@BudimirZagitov841",
             "email": "",
             "roles": [
               "user"
             ],
             "skills": [],
-            "birthday": "0012-12-12T00:00:00.000Z",
-            "university": "fds",
+            "birthday": "1987-12-30T00:00:00.000Z",
+            "phone": "+79176058584",
+            "gender": "Мужской",
+            "username": "BudimirZagitov841@mail.ru",
+            "city": "Мончегорск",
+            "position": "Аналитик",
+            "university": "МАИ",
+            "password": "1111"
+          },
+          {
+            "id": 5,
+            "firstName": "Емельян ",
+            "lastName": "Чернышов ",
+            "middleName": "Георгиевич",
+            "tgLink": "@EmelyanChernyshov225",
+            "email": "",
+            "roles": [
+              "user"
+            ],
+            "skills": [],
+            "birthday": "1998-10-12T00:00:00.000Z",
+            "username": "EmelyanChernyshov225@mail.ru",
+            "phone": "+79725198186",
+            "gender": "Мужской",
+            "city": "Россошь",
+            "position": "Fullstack разработчик",
+            "university": "МГУ",
+            "password": "1111"
+          },
+          {
+            "id": 3,
+            "firstName": "Климент ",
+            "lastName": "Галактионов ",
+            "middleName": "Ярославович",
+            "tgLink": "@KlimentGalaktionov222",
+            "email": "",
+            "roles": [
+              "user"
+            ],
+            "skills": [],
+            "birthday": "1986-02-21T00:00:00.000Z",
+            "username": "KlimentGalaktionov222@mail.ru",
             "password": "1111",
-            "username": "user"
+            "university": "МФТИ",
+            "city": "Тереньга",
+            "gender": "Мужской",
+            "phone": "+79198252939",
+            "position": "Дизайнер UI/UX"
           }
         ],
         "name": "Team 2",
         "id": 2
       },
-      "contact": {
-        "id": 1,
-        "username": "admin",
-        "password": "admin",
-        "roles": [
-          "admin"
-        ],
-        "position": "admin",
-        "tgLink": "fdsfd",
-        "skills": [
-          "Android",
-          "ML"
-        ],
-        "lastName": "Администратор",
-        "firstName": "fds",
-        "middleName": "fdsfd",
-        "city": "fds",
-        "gender": "fds",
-        "phone": "fds",
-        "university": "5"
-      }
+      "phase": "Сбор средств",
+      "setrify": "not",
+      "id": 1
     }
   ],
   "tasks": [
@@ -318,7 +339,7 @@
       "interaction": "tre",
       "budget": "6456",
       "deadline": "0065-06-05",
-      "author": "1",
+      "author": "2",
       "id": 1
     }
   ],
