@@ -1,0 +1,10 @@
+version: "3"
+services:
+  client:
+    image: vimagick/json-server
+    command: -H 0.0.0.0 -p 1486 -w db.json
+    ports:
+    - "1486:1486"
+    volumes:
+      - ./data:/data
+    restart: always
